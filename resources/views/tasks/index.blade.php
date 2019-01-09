@@ -1,5 +1,3 @@
-// resources/views/tasks/index.blade.php
-
 @extends('layouts.app')
 
 @section('content')
@@ -35,4 +33,4 @@
     </div>
 
     <!-- 代辦：目前任務 -->
-@endsection 
+@endsection
