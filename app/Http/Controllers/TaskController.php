@@ -29,4 +29,9 @@ class TaskController extends Controller
         ]);
         return redirect('/tasks');
     }
+
+    public function destroy(Request $request, Task $task)
+    {
+        //
+    }
 }
